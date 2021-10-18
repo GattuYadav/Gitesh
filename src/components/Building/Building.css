@@ -1,0 +1,90 @@
+.buildingWrapper{
+    height: 100%;
+}
+
+.top-filter{
+    background: antiquewhite;
+    height: 50%;
+}
+
+.filter-head{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.filter-options{
+    padding: 0 10px;
+    display: flex;
+    width: 100%;
+}
+
+.filter-options div{
+    margin: 5px;
+}
+
+.filter-option-price .price-options{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.filter-option-floor .floor-options{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.filter-option-bedroom .bedroom-options{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.filter-option-gross .gross-options{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.filterContent{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.filterContent div{
+    background: black;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.prices{
+    width: 50%;
+}
+
+.filter-option-head-price{
+    display: flex;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.filter-option-price{
+    display: flex;
+}
+
+.filter-option-head-floor{
+    display: flex;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.filter-option-floor{
+    display: flex;
+
+}

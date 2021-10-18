@@ -1,0 +1,22 @@
+.Wrapper{
+    display: flex;
+    justify-content: center;
+    background: antiquewhite;
+    height: 100%;
+    align-items: center;
+}
+
+.Container{
+    height: 300px;
+    width: 300px;
+    background: black;
+    color: white;
+    padding: 10px;
+}
+
+.Lower div div{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    align-items: center;
+}

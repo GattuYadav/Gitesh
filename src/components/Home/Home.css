@@ -1,0 +1,15 @@
+.homeWrapper{
+    justify-content: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background: antiquewhite;
+    color: white;
+}
+
+.homeContainer{
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    background: black;
+}
